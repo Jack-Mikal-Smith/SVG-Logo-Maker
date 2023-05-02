@@ -11,7 +11,7 @@ inquirer.prompt([
     {
         type: 'input',
         name: 'textColor',
-        message: 'Type the text color keyword/ hexadecimal you want.'
+        message: 'Type the text color keyword/ hexadecimal you want (input # for hexadecimals).'
     },
     {
         type: 'list',
@@ -26,7 +26,7 @@ inquirer.prompt([
     {
         type: 'input',
         name: 'shapeColor',
-        message: 'Type the shape color keyword/ hexadecimal you want.'
+        message: 'Type the shape color keyword/ hexadecimal you want (input # for hexadecimals).'
     }
 ]).then(res => {
     let shape;
