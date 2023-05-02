@@ -1,5 +1,5 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-    <polygon points="100,0 0,200 200,200" fill="#B2B2B2" />
-    <text x="100" y="130" text-anchor="middle" alignment-baseline="middle" fill="#19A7CE" font-size="55px">JMS</text>
+    <polygon points="100,0 0,200 200,200" fill="Gray" />
+    <text x="100" y="130" text-anchor="middle" alignment-baseline="middle" fill="Blue" font-size="55px">JMS</text>
 </svg>
     
